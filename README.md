@@ -1,4 +1,4 @@
-# temelmatematikprojeodev istenilen herhangi matematik ile ilgili bir konuyu 'Kavrayış Yoluyla (Sezgisel-İçgörüsel)' ile gösterme.
+# temelmatematikprojeodev bizden istenilen herhangi matematik ile ilgili bir konuyu, 'Kavrayış Yoluyla (Sezgisel-İçgörüsel)' ile gösterme.
 
 0! neden 1' e eşittir?
 
